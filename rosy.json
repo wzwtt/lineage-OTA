@@ -1,1 +1,13 @@
-
+{
+  "response": [
+    {
+      "datetime": 1656509893,
+      "filename": "lineage-19.1-20220614-UNOFFICIAL-rosy.zip",
+      "id": "0a9dfe6046e8da3204e2f56026d7a1f6",
+      "romtype": "UNOFFICIAL",
+      "size": 740066773,
+      "url": "https://githubfast.com/wzwtt/lineage-OTA/releases/download/lineage-19.1-20220614-UNOFFICIAL-rosy/lineage-19.1-20220614-UNOFFICIAL-rosy.zip",
+      "version": "19.1"
+    }
+  ]
+}
