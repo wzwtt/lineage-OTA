@@ -1,12 +1,21 @@
 {
   "response": [
     {
-      "datetime": 1656574557,
-      "filename": "lineage-19.1-20220630-UNOFFICIAL-rosy.zip",
-      "id": "01350c8854284486f1eb181582a31f86",
+      "datetime": 1658619590,
+      "filename": "lineage-19.1-20220723-UNOFFICIAL-rosy.zip",
+      "id": "7f44c8d04463466dcc7201f1c6f666c1",
       "romtype": "UNOFFICIAL",
-      "size": 951936944,
-      "url": "https://githubfast.com/wzwtt/lineage-OTA/releases/download/lineage-19.1-20220630-UNOFFICIAL-rosy/lineage-19.1-20220630-UNOFFICIAL-rosy.zip",
+      "size": 952483465,
+      "url": "https://hub.nuaa.cf/wzwtt/lineage-OTA/releases/download/lineage-19.1-20220723-UNOFFICIAL-rosy/lineage-19.1-20220723-UNOFFICIAL-rosy.zip",
+      "version": "19.1"
+    },
+    {
+      "datetime": 1658619892,
+      "filename": "signed-ota_update.zip",
+      "id": "98fda4a189235a63297ca60fb8af9c7e",
+      "romtype": "UNOFFICIAL",
+      "size": 952647066,
+      "url": "https://hub.nuaa.cf/wzwtt/lineage-OTA/releases/download/lineage-19.1-20220723-UNOFFICIAL-rosy/signed-ota_update.zip",
       "version": "19.1"
     }
   ]
