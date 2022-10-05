@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1664710401,
+      "datetime": 1664958094,
       "filename": "signed-ota_update.zip",
-      "id": "8147771d56d8f6b445d843061457387e",
+      "id": "190aa3e0554b25d500086e87d2bdfdc1",
       "romtype": "UNOFFICIAL",
-      "size": 970760243,
-      "url": "https://ghdown.wzwtt.cf/https://github.com/wzwtt/lineage-OTA/releases/download/lineage-20.0-20221002-UNOFFICIAL-rosy/signed-ota_update.zip",
+      "size": 971207628,
+      "url": "https://ghdown.wzwtt.cf/https://github.com/wzwtt/lineage-OTA/releases/download/lineage-20.0-20221005-UNOFFICIAL-rosy/signed-ota_update.zip",
       "version": "20.0"
     }
   ]
